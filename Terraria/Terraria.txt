@@ -1,0 +1,16 @@
+# <Terraria>
+### <Kategorie>
+Broń:
+- {Miecze}
+- {Łuki}
+- {Różdżki}
+
+Przedmioty:
+- {Kilofy}
+- {Siekiery}
+- {Młoty}
+- {Wędki}
+
+Inne:
+- {Biomy}
+- {Bloki}
